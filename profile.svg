@@ -1,153 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1100" width="860" height="1100">
-  <rect width="860" height="1100" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1120" width="860" height="1120">
+  <rect width="860" height="1120" fill="#ffffff"/>
 
-  <!-- Name -->
-  <text x="48" y="98" font-size="72" font-weight="800" fill="#111111" letter-spacing="-3" font-family="Georgia, serif">Pedro</text>
-  <text x="48" y="168" font-size="72" font-weight="800" fill="#111111" letter-spacing="-3" font-family="Georgia, serif">Vicente</text>
-
-  <!-- Tagline -->
-  <text x="48" y="202" font-size="12" fill="#888888" font-family="monospace" letter-spacing="1">// software engineering student @ 42 lisboa  ·  frontend freelancer  ·  lisbon, pt</text>
+  <!-- Name in Anton (paths) -->
+  <path transform="translate(48.0,118) scale(0.0439,-0.0439)" d="M78 0V1760H543Q689 1760 774.5 1695.0Q860 1630 897.0 1510.0Q934 1390 934 1224Q934 1064 903.0 945.5Q872 827 792.5 762.0Q713 697 567 697H424V0ZM424 1013H444Q542 1013 564.0 1068.0Q586 1123 586 1230Q586 1330 564.5 1384.5Q543 1439 463 1439H424Z" fill="#111111"/>
+  <path transform="translate(90.5,118) scale(0.0439,-0.0439)" d="M78 0V1760H782V1420H436V1077H768V746H436V343H805V0Z" fill="#111111"/>
+  <path transform="translate(127.5,118) scale(0.0439,-0.0439)" d="M78 0V1760H562Q752 1760 848.0 1654.5Q944 1549 944 1346V522Q944 272 856.5 136.0Q769 0 550 0ZM432 311H493Q590 311 590 405V1313Q590 1401 566.5 1426.5Q543 1452 471 1452H432Z" fill="#111111"/>
+  <path transform="translate(171.9,118) scale(0.0439,-0.0439)" d="M78 0V1760H618Q753 1760 822.0 1698.5Q891 1637 914.5 1526.5Q938 1416 938 1267Q938 1123 901.5 1037.0Q865 951 764 918Q847 901 880.5 835.5Q914 770 914 666V0H567V689Q567 766 535.5 784.5Q504 803 434 803V0ZM436 1108H521Q594 1108 594 1267Q594 1370 578.0 1402.0Q562 1434 518 1434H436Z" fill="#111111"/>
+  <path transform="translate(214.8,118) scale(0.0439,-0.0439)" d="M498 -16Q287 -16 175.5 111.5Q64 239 64 480V1316Q64 1542 174.5 1659.0Q285 1776 498 1776Q711 1776 821.5 1659.0Q932 1542 932 1316V480Q932 239 820.5 111.5Q709 -16 498 -16ZM501 308Q581 308 581 463V1322Q581 1452 503 1452Q415 1452 415 1319V461Q415 379 435.0 343.5Q455 308 501 308Z" fill="#111111"/>
+  <path transform="translate(48.0,210) scale(0.0439,-0.0439)" d="M240 0 23 1761H358L487 563L602 1761H937L720 0Z" fill="#111111"/>
+  <path transform="translate(90.2,210) scale(0.0439,-0.0439)" d="M62 0V1760H402V0Z" fill="#111111"/>
+  <path transform="translate(110.6,210) scale(0.0439,-0.0439)" d="M488 -16Q297 -16 180.5 103.0Q64 222 64 436V1248Q64 1504 165.5 1640.0Q267 1776 496 1776Q621 1776 718.5 1730.0Q816 1684 872.0 1592.5Q928 1501 928 1362V1058H578V1318Q578 1397 558.0 1424.5Q538 1452 496 1452Q447 1452 430.0 1416.5Q413 1381 413 1322V441Q413 368 434.5 338.0Q456 308 496 308Q541 308 559.5 345.0Q578 382 578 441V758H932V425Q932 193 815.0 88.5Q698 -16 488 -16Z" fill="#111111"/>
+  <path transform="translate(153.3,210) scale(0.0439,-0.0439)" d="M78 0V1760H782V1420H436V1077H768V746H436V343H805V0Z" fill="#111111"/>
+  <path transform="translate(190.3,210) scale(0.0439,-0.0439)" d="M78 0V1760H440L602 917V1760H942V0H598L422 880V0Z" fill="#111111"/>
+  <path transform="translate(235.2,210) scale(0.0439,-0.0439)" d="M229 0V1422H20V1760H790V1422H581V0Z" fill="#111111"/>
+  <path transform="translate(270.8,210) scale(0.0439,-0.0439)" d="M78 0V1760H782V1420H436V1077H768V746H436V343H805V0Z" fill="#111111"/>
 
   <!-- Header rule -->
-  <line x1="48" y1="222" x2="812" y2="222" stroke="#111111" stroke-width="2"/>
+  <line x1="48" y1="230" x2="812" y2="230" stroke="#111111" stroke-width="2"/>
+
+  <!-- Tagline -->
+  <text x="48" y="252" font-size="12" fill="#888888" font-family="monospace" letter-spacing="1">// software engineering student @ 42 lisboa  ·  frontend freelancer  ·  lisbon, pt</text>
 
   <!-- Badges -->
-  <rect x="48" y="235" width="90" height="22" rx="2" fill="#111111"/>
-  <text x="93" y="250" font-size="11" fill="#ffffff" font-family="monospace" text-anchor="middle" font-weight="700">42 LISBOA</text>
-  <rect x="148" y="235" width="32" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="164" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">C</text>
-  <rect x="190" y="235" width="56" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="218" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">PYTHON</text>
-  <rect x="256" y="235" width="110" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="311" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">HTML / CSS / JS</text>
-  <rect x="376" y="235" width="56" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="404" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">FIGMA</text>
-  <rect x="442" y="235" width="52" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="468" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">LINUX</text>
-  <rect x="504" y="235" width="36" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
-  <text x="522" y="250" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">GIT</text>
+  <rect x="48" y="265" width="90" height="22" rx="2" fill="#111111"/>
+  <text x="93" y="280" font-size="11" fill="#ffffff" font-family="monospace" text-anchor="middle" font-weight="700">42 LISBOA</text>
+  <rect x="148" y="265" width="32" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="164" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">C</text>
+  <rect x="190" y="265" width="56" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="218" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">PYTHON</text>
+  <rect x="256" y="265" width="110" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="311" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">HTML / CSS / JS</text>
+  <rect x="376" y="265" width="56" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="404" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">FIGMA</text>
+  <rect x="442" y="265" width="52" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="468" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">LINUX</text>
+  <rect x="504" y="265" width="36" height="22" rx="2" fill="none" stroke="#cccccc" stroke-width="1"/>
+  <text x="522" y="280" font-size="11" fill="#555555" font-family="monospace" text-anchor="middle">GIT</text>
 
   <!-- About label -->
-  <text x="48" y="295" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">ABOUT</text>
-  <line x1="100" y1="290" x2="812" y2="290" stroke="#eeeeee" stroke-width="1"/>
+  <text x="48" y="326" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">ABOUT</text>
+  <line x1="100" y1="321" x2="812" y2="321" stroke="#eeeeee" stroke-width="1"/>
+  <text x="48" y="348" font-size="14" fill="#222222" font-family="Georgia, serif">Full-time student at 42 Lisboa &#8212; a project-based, peer-reviewed programme</text>
+  <text x="48" y="368" font-size="14" fill="#222222" font-family="Georgia, serif">with no lectures. Before this, I spent 4 years in investment banking.</text>
+  <text x="48" y="388" font-size="14" fill="#222222" font-family="Georgia, serif">This profile is a live record of that transition.</text>
+  <text x="48" y="418" font-size="14" fill="#222222" font-family="Georgia, serif">I enjoy problems that demand precise, structured thinking. Currently building</text>
+  <text x="48" y="438" font-size="14" fill="#222222" font-family="Georgia, serif">systems in C, exploring automation, and taking on frontend freelance work.</text>
 
-  <text x="48" y="317" font-size="14" fill="#222222" font-family="Georgia, serif">Full-time student at 42 Lisboa — a project-based, peer-reviewed programme</text>
-  <text x="48" y="337" font-size="14" fill="#222222" font-family="Georgia, serif">with no lectures. Before this, I spent 4 years in investment banking.</text>
-  <text x="48" y="357" font-size="14" fill="#222222" font-family="Georgia, serif">This profile is a live record of that transition.</text>
-  <text x="48" y="387" font-size="14" fill="#222222" font-family="Georgia, serif">I enjoy problems that demand precise, structured thinking. Currently building</text>
-  <text x="48" y="407" font-size="14" fill="#222222" font-family="Georgia, serif">systems in C, exploring automation, and taking on frontend freelance work.</text>
+  <!-- 42 Curriculum -->
+  <text x="48" y="478" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">42 CURRICULUM</text>
+  <line x1="158" y1="473" x2="812" y2="473" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="48" y1="489" x2="812" y2="489" stroke="#eeeeee" stroke-width="1"/>
 
-  <!-- 42 Curriculum label -->
-  <text x="48" y="447" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">42 CURRICULUM</text>
-  <line x1="158" y1="442" x2="812" y2="442" stroke="#eeeeee" stroke-width="1"/>
-
-  <line x1="48" y1="458" x2="812" y2="458" stroke="#eeeeee" stroke-width="1"/>
-
-  <text x="58" y="476" font-size="11" fill="#bbbbbb" font-family="monospace">01</text>
-  <text x="90" y="476" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">libft</text>
-  <text x="200" y="476" font-size="12" fill="#555555" font-family="Georgia, serif">Custom C library reimplementing standard libc functions from scratch</text>
-  <rect x="770" y="464" width="34" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="787" y="477" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
-  <line x1="48" y1="488" x2="812" y2="488" stroke="#eeeeee" stroke-width="1"/>
-
-  <text x="58" y="506" font-size="11" fill="#bbbbbb" font-family="monospace">02</text>
-  <text x="90" y="506" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">get_next_line</text>
-  <text x="200" y="506" font-size="12" fill="#555555" font-family="Georgia, serif">Reads one line at a time from a file descriptor using static variables</text>
+  <text x="58" y="507" font-size="11" fill="#bbbbbb" font-family="monospace">01</text>
+  <text x="90" y="507" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">libft</text>
+  <text x="200" y="507" font-size="12" fill="#555555" font-family="Georgia, serif">Custom C library reimplementing standard libc functions from scratch</text>
   <rect x="770" y="494" width="34" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
   <text x="787" y="507" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
   <line x1="48" y1="518" x2="812" y2="518" stroke="#eeeeee" stroke-width="1"/>
 
-  <text x="58" y="536" font-size="11" fill="#bbbbbb" font-family="monospace">03</text>
-  <text x="90" y="536" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">ft_printf</text>
-  <text x="200" y="536" font-size="12" fill="#555555" font-family="Georgia, serif">Reimplementation of printf with variadic argument handling</text>
+  <text x="58" y="536" font-size="11" fill="#bbbbbb" font-family="monospace">02</text>
+  <text x="90" y="536" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">get_next_line</text>
+  <text x="200" y="536" font-size="12" fill="#555555" font-family="Georgia, serif">Reads one line at a time from a file descriptor using static variables</text>
   <rect x="770" y="524" width="34" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
   <text x="787" y="537" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
   <line x1="48" y1="548" x2="812" y2="548" stroke="#eeeeee" stroke-width="1"/>
 
-  <text x="58" y="566" font-size="11" fill="#bbbbbb" font-family="monospace">04</text>
-  <text x="90" y="566" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">push_swap</text>
-  <text x="200" y="566" font-size="12" fill="#555555" font-family="Georgia, serif">Sorts integers using two stacks, optimising for minimum operation count</text>
+  <text x="58" y="566" font-size="11" fill="#bbbbbb" font-family="monospace">03</text>
+  <text x="90" y="566" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">ft_printf</text>
+  <text x="200" y="566" font-size="12" fill="#555555" font-family="Georgia, serif">Reimplementation of printf with variadic argument handling</text>
   <rect x="770" y="554" width="34" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
   <text x="787" y="567" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
   <line x1="48" y1="578" x2="812" y2="578" stroke="#eeeeee" stroke-width="1"/>
 
-  <text x="58" y="596" font-size="11" fill="#bbbbbb" font-family="monospace">05</text>
-  <text x="90" y="596" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">a-maze-ing</text>
-  <text x="200" y="596" font-size="12" fill="#555555" font-family="Georgia, serif">Configurable maze generation and pathfinding simulation</text>
-  <rect x="748" y="584" width="56" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="776" y="597" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">PYTHON</text>
+  <text x="58" y="596" font-size="11" fill="#bbbbbb" font-family="monospace">04</text>
+  <text x="90" y="596" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">push_swap</text>
+  <text x="200" y="596" font-size="12" fill="#555555" font-family="Georgia, serif">Sorts integers using two stacks, optimising for minimum operation count</text>
+  <rect x="770" y="584" width="34" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="787" y="597" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
   <line x1="48" y1="608" x2="812" y2="608" stroke="#eeeeee" stroke-width="1"/>
 
+  <text x="58" y="626" font-size="11" fill="#bbbbbb" font-family="monospace">05</text>
+  <text x="90" y="626" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">a-maze-ing</text>
+  <text x="200" y="626" font-size="12" fill="#555555" font-family="Georgia, serif">Configurable maze generation and pathfinding simulation</text>
+  <rect x="748" y="614" width="56" height="18" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="776" y="627" font-size="10" fill="#888888" font-family="monospace" text-anchor="middle">PYTHON</text>
+  <line x1="48" y1="638" x2="812" y2="638" stroke="#eeeeee" stroke-width="1"/>
+
   <!-- Work in Progress -->
-  <text x="48" y="644" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">WORK IN PROGRESS</text>
-  <line x1="195" y1="639" x2="812" y2="639" stroke="#eeeeee" stroke-width="1"/>
+  <text x="48" y="674" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">WORK IN PROGRESS</text>
+  <line x1="195" y1="669" x2="812" y2="669" stroke="#eeeeee" stroke-width="1"/>
 
-  <rect x="48" y="654" width="371" height="82" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
-  <text x="64" y="674" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
-  <text x="82" y="674" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Codexion</text>
-  <rect x="338" y="661" width="70" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
-  <text x="373" y="673" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
-  <text x="64" y="693" font-size="11" fill="#666666" font-family="Georgia, serif">Multithreaded simulation in C.</text>
-  <text x="64" y="709" font-size="11" fill="#666666" font-family="Georgia, serif">Synchronisation, fairness, deadlock prevention.</text>
-  <rect x="64" y="722" width="22" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="75" y="733" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
+  <rect x="48" y="684" width="371" height="82" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
+  <text x="64" y="704" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
+  <text x="82" y="704" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Codexion</text>
+  <rect x="338" y="691" width="70" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
+  <text x="373" y="703" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
+  <text x="64" y="723" font-size="11" fill="#666666" font-family="Georgia, serif">Multithreaded simulation in C.</text>
+  <text x="64" y="739" font-size="11" fill="#666666" font-family="Georgia, serif">Synchronisation, fairness, deadlock prevention.</text>
+  <rect x="64" y="752" width="22" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="75" y="763" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
 
-  <rect x="441" y="654" width="371" height="82" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
-  <text x="457" y="674" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
-  <text x="475" y="674" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Fly-in</text>
-  <rect x="731" y="661" width="70" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
-  <text x="766" y="673" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
-  <text x="457" y="693" font-size="11" fill="#666666" font-family="Georgia, serif">Movement simulation with rule-based,</text>
-  <text x="457" y="709" font-size="11" fill="#666666" font-family="Georgia, serif">deterministic flight logic.</text>
-  <rect x="457" y="722" width="22" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="468" y="733" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
+  <rect x="441" y="684" width="371" height="82" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
+  <text x="457" y="704" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
+  <text x="475" y="704" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Fly-in</text>
+  <rect x="731" y="691" width="70" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
+  <text x="766" y="703" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
+  <text x="457" y="723" font-size="11" fill="#666666" font-family="Georgia, serif">Movement simulation with rule-based,</text>
+  <text x="457" y="739" font-size="11" fill="#666666" font-family="Georgia, serif">deterministic flight logic.</text>
+  <rect x="457" y="752" width="22" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="468" y="763" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">C</text>
 
   <!-- Freelance -->
-  <text x="48" y="774" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">FREELANCE</text>
-  <line x1="120" y1="769" x2="812" y2="769" stroke="#eeeeee" stroke-width="1"/>
+  <text x="48" y="804" font-size="10" fill="#999999" font-family="monospace" letter-spacing="2">FREELANCE</text>
+  <line x1="120" y1="799" x2="812" y2="799" stroke="#eeeeee" stroke-width="1"/>
 
-  <rect x="48" y="784" width="371" height="82" fill="#ffffff" stroke="#eeeeee" stroke-width="1"/>
-  <text x="64" y="804" font-size="11" fill="#bbbbbb" font-family="monospace">&#8599;</text>
-  <text x="82" y="804" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">MP Advogadas</text>
-  <rect x="308" y="791" width="100" height="16" rx="2" fill="#e6f0ff" stroke="#99bbee" stroke-width="1"/>
-  <text x="358" y="803" font-size="10" fill="#2255aa" font-family="monospace" text-anchor="middle">mpadvogadas.com</text>
-  <text x="64" y="823" font-size="11" fill="#666666" font-family="Georgia, serif">Website for a Lisbon-based legal practice.</text>
-  <text x="64" y="839" font-size="11" fill="#666666" font-family="Georgia, serif">Clean, professional, built for trust.</text>
-  <rect x="64" y="852" width="80" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="104" y="863" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">HTML · CSS · JS</text>
+  <rect x="48" y="814" width="371" height="82" fill="#ffffff" stroke="#eeeeee" stroke-width="1"/>
+  <text x="64" y="834" font-size="11" fill="#bbbbbb" font-family="monospace">&#8599;</text>
+  <text x="82" y="834" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">MP Advogadas</text>
+  <rect x="308" y="821" width="100" height="16" rx="2" fill="#e6f0ff" stroke="#99bbee" stroke-width="1"/>
+  <text x="358" y="833" font-size="10" fill="#2255aa" font-family="monospace" text-anchor="middle">mpadvogadas.com</text>
+  <text x="64" y="853" font-size="11" fill="#666666" font-family="Georgia, serif">Website for a Lisbon-based legal practice.</text>
+  <text x="64" y="869" font-size="11" fill="#666666" font-family="Georgia, serif">Clean, professional, built for trust.</text>
+  <rect x="64" y="882" width="80" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="104" y="893" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">HTML · CSS · JS</text>
 
-  <rect x="441" y="784" width="371" height="82" fill="#ffffff" stroke="#eeeeee" stroke-width="1"/>
-  <text x="457" y="804" font-size="11" fill="#bbbbbb" font-family="monospace">&#8599;</text>
-  <text x="475" y="804" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Casa do Ameal</text>
-  <text x="457" y="823" font-size="11" fill="#666666" font-family="Georgia, serif">Frontend for a Portuguese hospitality property.</text>
-  <rect x="457" y="852" width="80" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
-  <text x="497" y="863" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">HTML · CSS · JS</text>
+  <rect x="441" y="814" width="371" height="82" fill="#ffffff" stroke="#eeeeee" stroke-width="1"/>
+  <text x="457" y="834" font-size="11" fill="#bbbbbb" font-family="monospace">&#8599;</text>
+  <text x="475" y="834" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Casa do Ameal</text>
+  <text x="457" y="853" font-size="11" fill="#666666" font-family="Georgia, serif">Frontend for a Portuguese hospitality property.</text>
+  <rect x="457" y="882" width="80" height="14" rx="2" fill="none" stroke="#dddddd" stroke-width="1"/>
+  <text x="497" y="893" font-size="9" fill="#888888" font-family="monospace" text-anchor="middle">HTML · CSS · JS</text>
 
   <!-- Petabook -->
-  <rect x="48" y="876" width="764" height="50" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
-  <text x="64" y="896" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
-  <text x="82" y="896" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Petabook</text>
-  <text x="82" y="914" font-size="11" fill="#999999" font-family="Georgia, serif">Frontend web platform — in development.</text>
-  <rect x="734" y="884" width="67" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
-  <text x="767" y="896" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
+  <rect x="48" y="906" width="764" height="50" fill="#f8f8f8" stroke="#eeeeee" stroke-width="1"/>
+  <text x="64" y="926" font-size="11" fill="#bbbbbb" font-family="monospace">&#8594;</text>
+  <text x="82" y="926" font-size="13" fill="#111111" font-weight="700" font-family="Georgia, serif">Petabook</text>
+  <text x="82" y="944" font-size="11" fill="#999999" font-family="Georgia, serif">Frontend web platform &#8212; in development.</text>
+  <rect x="734" y="914" width="67" height="16" rx="2" fill="#fff8e6" stroke="#f0d080" stroke-width="1"/>
+  <text x="767" y="926" font-size="10" fill="#a07820" font-family="monospace" text-anchor="middle">active</text>
 
   <!-- Stats -->
-  <line x1="48" y1="948" x2="812" y2="948" stroke="#eeeeee" stroke-width="1"/>
-  <line x1="310" y1="953" x2="310" y2="1025" stroke="#eeeeee" stroke-width="1"/>
-  <line x1="560" y1="953" x2="560" y2="1025" stroke="#eeeeee" stroke-width="1"/>
-
-  <text x="180" y="995" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">5</text>
-  <text x="180" y="1015" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">42 PROJECTS</text>
-
-  <text x="430" y="995" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">3</text>
-  <text x="430" y="1015" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">FREELANCE SITES</text>
-
-  <text x="680" y="995" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">2</text>
-  <text x="680" y="1015" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">ACTIVE BUILDS</text>
-
-  <line x1="48" y1="1028" x2="812" y2="1028" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="48" y1="978" x2="812" y2="978" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="310" y1="983" x2="310" y2="1055" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="560" y1="983" x2="560" y2="1055" stroke="#eeeeee" stroke-width="1"/>
+  <text x="180" y="1025" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">5</text>
+  <text x="180" y="1045" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">42 PROJECTS</text>
+  <text x="430" y="1025" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">3</text>
+  <text x="430" y="1045" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">FREELANCE SITES</text>
+  <text x="680" y="1025" font-size="42" font-weight="800" fill="#111111" font-family="Georgia, serif" text-anchor="middle">2</text>
+  <text x="680" y="1045" font-size="10" fill="#999999" font-family="monospace" text-anchor="middle" letter-spacing="1">ACTIVE BUILDS</text>
+  <line x1="48" y1="1058" x2="812" y2="1058" stroke="#eeeeee" stroke-width="1"/>
 
   <!-- Footer -->
-  <text x="48" y="1072" font-size="11" fill="#999999" font-family="monospace">open to freelance work  ·  lisbon, pt</text>
-  <text x="812" y="1072" font-size="11" fill="#111111" font-family="monospace" text-anchor="end">linkedin &#8599;</text>
+  <text x="48" y="1100" font-size="11" fill="#999999" font-family="monospace">open to freelance work  ·  lisbon, pt</text>
+  <text x="812" y="1100" font-size="11" fill="#111111" font-family="monospace" text-anchor="end">linkedin &#8599;</text>
 </svg>

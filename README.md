@@ -17,6 +17,17 @@
 Full-time student at 42 Lisboa — a project-based, peer-reviewed programme with no lectures.
 I enjoy problems that demand precise, structured thinking. Currently building systems in C, exploring automation, and taking on frontend freelance work.
 
+---
+
+### Currently Working On
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Codexion]** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
+| **[Fly-in]** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
+| **Petabook** | Frontend web platform — in development. | `TBD` |
+
+---
 
 ### 42 Curriculum
 
@@ -27,17 +38,6 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 | **[ft_printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
 | **[push_swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
 | **[a-maze-ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |
-
----
----
-
-### Currently Working On
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Codexion](https://github.com/pedrvicente/codexion)** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
-| **[Fly-in](https://github.com/pedrvicente/fly-in)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
-| **Petabook** | Frontend web platform — in development. | `TBD` |
 
 ---
 

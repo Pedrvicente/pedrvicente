@@ -23,7 +23,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[libft](https://github.com/pedrvicente/libft)** | Custom C library reimplementing standard libc functions from scratch — the foundation for all subsequent 42 work. | `C` |
-| **[get_next_line](https://github.com/pedrvicente/get_next_line)** | Reads one line at a time from a file descriptor using static variables and buffer management. | `C` |
+| **[get_next_line](https://github.com/pedrvicente/Get_Next_Line)** | Reads one line at a time from a file descriptor using static variables and buffer management. | `C` |
 | **[ft_printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
 | **[push_swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
 | **[a-maze-ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |

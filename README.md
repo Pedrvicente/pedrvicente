@@ -11,6 +11,7 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=pedrvicente&style=flat-square&color=000000)
 
 ---
 

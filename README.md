@@ -1,6 +1,6 @@
 # Pedro Vicente
 
-**Software Engineering Student @ 42 Lisboa · Frontend Freelancer · Lisbon, PT**
+**Software Engineering Student @ 42 Lisboa · UX/UI Designer && Frontend Developer Freelancer · Lisbon, PT**
 
 ![42 Lisboa](https://img.shields.io/badge/42_Lisboa-000000?style=flat-square&logo=42&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)

@@ -11,9 +11,6 @@
 ---
 
 Full-time student at [42 Lisboa](https://www.42lisboa.com/) — a project-based, peer-reviewed programme with no lectures.  
-Before this, I spent 4 years in investment banking. This profile is a live record of that transition.
-
-I enjoy problems that demand precise, structured thinking. Currently building systems in C, exploring automation, and taking on frontend freelance work.
 
 ---
 

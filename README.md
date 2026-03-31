@@ -36,7 +36,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Codexion](https://github.com/pedrvicente/codexion)** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
-| **[Fly-in](https://github.com/pedrvicente/fly-in)** | Movement simulation with rule-based, deterministic flight logic. | `C` |
+| **[Fly-in](https://github.com/pedrvicente/fly-in)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
 | **Petabook** | Frontend web platform — in development. | `TBD` |
 
 ---

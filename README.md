@@ -23,7 +23,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Call Me Maybe]** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
+| **Call Me Maybe** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
 | **Petabook** | Frontend web platform — in development. | `React` |
 
 ---
@@ -37,7 +37,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 | **[Ft_Printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
 | **[Push_Swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
 | **[Codexion](https://github.com/Pedrvicente/Codexion)** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
-| **[A-Maze-Ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |
+| **[A-Maze-Ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | (https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) |
 | **[Fly-In](https://github.com/Pedrvicente/Fly_In)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
 
 

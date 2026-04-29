@@ -23,8 +23,8 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Codexion]** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
-| **Petabook** | Frontend web platform — in development. | `TBD` |
+| **[Call-Me-Maybe]** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
+| **Petabook** | Frontend web platform — in development. | `React` |
 
 ---
 
@@ -36,6 +36,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 | **[get_next_line](https://github.com/pedrvicente/Get_Next_Line)** | Reads one line at a time from a file descriptor using static variables and buffer management. | `C` |
 | **[ft_printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
 | **[push_swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
+| **[Codexion](https://github.com/Pedrvicente/Codexion)** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
 | **[a-maze-ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |
 | **[Fly-in](https://github.com/Pedrvicente/Fly_In)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
 

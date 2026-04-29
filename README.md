@@ -23,7 +23,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Call-Me-Maybe]** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
+| **[Call Me Maybe]** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
 | **Petabook** | Frontend web platform — in development. | `React` |
 
 ---
@@ -32,13 +32,13 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[libft](https://github.com/pedrvicente/libft)** | Custom C library reimplementing standard libc functions from scratch — the foundation for all subsequent 42 work. | `C` |
-| **[get_next_line](https://github.com/pedrvicente/Get_Next_Line)** | Reads one line at a time from a file descriptor using static variables and buffer management. | `C` |
-| **[ft_printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
-| **[push_swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
+| **[Libft](https://github.com/pedrvicente/libft)** | Custom C library reimplementing standard libc functions from scratch — the foundation for all subsequent 42 work. | `C` |
+| **[Get_Next_Line](https://github.com/pedrvicente/Get_Next_Line)** | Reads one line at a time from a file descriptor using static variables and buffer management. | `C` |
+| **[Ft_Printf](https://github.com/pedrvicente/ft_printf)** | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers. | `C` |
+| **[Push_Swap](https://github.com/pedrvicente/push_swap)** | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count. | `C` |
 | **[Codexion](https://github.com/Pedrvicente/Codexion)** | Multithreaded simulation adapted from the Philosophers problem. Threads compete for shared resources under timing constraints — synchronisation, fairness, deadlock prevention. | `C` |
-| **[a-maze-ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |
-| **[Fly-in](https://github.com/Pedrvicente/Fly_In)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
+| **[A-Maze-Ing](https://github.com/pedrvicente/a-maze-ing)** | Configurable maze generation and pathfinding simulation. | `Python` |
+| **[Fly-In](https://github.com/Pedrvicente/Fly_In)** | Movement simulation with rule-based, deterministic flight logic. | `Python` |
 
 
 ---

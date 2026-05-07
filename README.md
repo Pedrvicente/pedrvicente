@@ -23,7 +23,7 @@ I enjoy problems that demand precise, structured thinking. Currently building sy
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Call Me Maybe** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
+| **Call Me Maybe(https://github.com/Pedrvicente/Call-Me-Maybe)** | Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema. | `Python` |
 | **Petabook** | Frontend web platform — in development. | `React` |
 
 ---
